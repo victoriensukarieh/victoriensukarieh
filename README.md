@@ -1,5 +1,13 @@
 # Hello There!
-🧠 learning HTML from scratch, because why not?!
+##🧠what i have in mind to work on:
+- [x]HTML
+- []CSS
+- []Javascript
+- []HTTP methods
+- []SQL server
+- []APIs (REST probably)
+- []GIT (including github)
+
 
 👔 [linkedin][linkedin] **|** 
 :eyeglasses: [facebook][facebook] **|** 
