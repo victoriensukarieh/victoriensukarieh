@@ -8,6 +8,8 @@ To do so i spent some time studying HTML and trying to expose myself to as much 
 - [ ] CSS
 - [ ] Javascript
 - [ ] HTTP methods
+- [ ] C#
+- [ ] .net framework
 - [ ] SQL server
 - [ ] APIs (REST probably)
 - [ ] GIT (including github)
