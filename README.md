@@ -4,31 +4,31 @@ Web development seemed like the fastest result-generating learning journey, with
 I am trying to learn web development from scratch, to build a strong understanding of all the components.
 To do so i spent some time studying HTML and trying to expose myself to as much terminologies and concepts as possible. Now it is the turn of CSS.
 ## 🧠what i have in mind to work on:
-1. Front-end Dev
+- Front-end Dev
   - [x] HTML
   - [ ] CSS
   - [ ] Javascript
-2. Programming Langusges
+- Programming Langusges
   - [ ] C#
   - [ ] PHP
-3. Framewroks
+- Framewroks
   - [ ] .Net 6 (core)
   - [ ] Laravel
   - [ ] JQuery
   - [ ] React
-4. [ ] Databases
+- [ ] Databases
   - [ ] MSSQL
   - [ ] MySQL
   - [ ] MongoDB(No-SQL)
-5. Mobile Dev
+- Mobile Dev
   - [ ] React Native
   - [ ] Flutter
-6. Concepts
+- Concepts
   - [ ] HTTP methods
   - [ ] APIs (REST probably)
   - [ ] MVC
   - [ ] Clean Architecture
-7. Version Control
+- Version Control
   - [ ] GIT (including github)
 
 
