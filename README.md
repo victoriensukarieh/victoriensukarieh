@@ -16,7 +16,7 @@ To do so i spent some time studying HTML and trying to expose myself to as much 
   - [ ] Laravel
   - [ ] JQuery
   - [ ] React
-- [ ] Databases
+- Databases
   - [ ] MSSQL
   - [ ] MySQL
   - [ ] MongoDB(No-SQL)
