@@ -28,6 +28,7 @@ To do so i spent some time studying HTML and trying to expose myself to as much 
   - [ ] APIs (REST probably)
   - [ ] MVC
   - [ ] Clean Architecture
+  - [ ] Agile Development
 - Version Control
   - [ ] GIT (including github)
 
