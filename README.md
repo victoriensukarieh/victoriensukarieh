@@ -3,7 +3,7 @@ After few years of swimming aimlessly in the sea of programming and software dev
 Web development seemed like the fastest result-generating learning journey, with simpler tools and softwares.
 I am trying to learn web development from scratch, to build a strong understanding of all the components.
 To do so i spent some time studying HTML and trying to expose myself to as much terminologies and concepts as possible. Now it is the turn of CSS.
-## 🧠what i have in mind to work on:
+## 🧠what i want to learn:
 - Front-end Dev
   - [x] HTML
   - [ ] CSS
@@ -34,7 +34,7 @@ To do so i spent some time studying HTML and trying to expose myself to as much 
 - Version Control
   - [ ] GIT (including github)
 
-## Projects in mind:
+## What projects i want to do:
 - Expenses Tracker
 - Meals Planner
 - Forms Generator
