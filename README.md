@@ -25,6 +25,7 @@ To do so i spent some time studying HTML and trying to expose myself to as much 
   - [ ] React Native
   - [ ] Flutter
 - Concepts
+  - [ ] OOP
   - [ ] HTTP methods
   - [ ] APIs (REST probably)
   - [ ] MVC
@@ -33,6 +34,11 @@ To do so i spent some time studying HTML and trying to expose myself to as much 
 - Version Control
   - [ ] GIT (including github)
 
+## Projects in mind:
+- Expenses Tracker
+- Meals Planner
+- Forms Generator
+- Prayer Times App
 
 👔 [Linkedin][linkedin] **|** 
 :eyeglasses: [Facebook][facebook] **|** 
