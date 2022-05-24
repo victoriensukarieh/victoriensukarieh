@@ -14,6 +14,7 @@ To do so i spent some time studying HTML and trying to expose myself to as much 
 - Framewroks
   - [ ] .Net 6 (core)
   - [ ] Laravel
+  - [ ] Wordpress
   - [ ] JQuery
   - [ ] React
 - Databases
