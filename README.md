@@ -39,6 +39,7 @@ To do so i spent some time studying HTML and trying to expose myself to as much 
 - Meals Planner
 - Forms Generator
 - Prayer Times App
+- Books Quotes API
 
 👔 [Linkedin][linkedin] **|** 
 :eyeglasses: [Facebook][facebook] **|** 
