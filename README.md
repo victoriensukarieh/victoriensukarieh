@@ -12,7 +12,7 @@ To do so i spent some time studying HTML and trying to expose myself to as much 
   - [ ] C#
   - [ ] PHP
 - Framewroks
-  - [ ] .Net 6 (core)
+  - [ ] .Net Core
   - [ ] Laravel
   - [ ] Wordpress
   - [ ] JQuery
