@@ -43,13 +43,9 @@ To do so i spent some time studying HTML and trying to expose myself to as much 
 
 👔 [Linkedin][linkedin] **|** 
 :eyeglasses: [Facebook][facebook] **|** 
-📷 [Instagram][instagram] **|** 
-🐦 [Twitter][twitter] **|** 
 🌐 [Website][website]
 
 
-[twitter]: https://twitter.com/victoriensuk
-[instagram]: https://www.instagram.com/victoriensukarieh/
 [linkedin]: https://www.linkedin.com/in/victorien-sukarieh/
 [facebook]: https://www.facebook.com/vsukarieh/
 [website]: https://victoriensukarieh.info/
